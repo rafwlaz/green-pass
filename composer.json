@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "php": "^8.0",
+        "php": "^7.0",
         "ext-zlib": "*",
         "mhauri/base45": "^0.1.1",
         "nesbot/carbon": "^2.50",
